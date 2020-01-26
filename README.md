@@ -15,7 +15,7 @@ Adapter runs on Python 3.6.
 # Adapter changelog by version
 Adapter releases are as aau_adapter_x.y.z.py
 
-## 1.0.0
+## 1.0.2
 Start version, it works with agent-service-full-0.6.3.jar, and it subscribes to the event of GORENJE oven #7 device status and publishes an event with energy consumption abnormal notification. 
 
 # Functionality and API
